@@ -112,11 +112,5 @@ while (!WindowShouldClose()) {
 - Kontrol iteratif dengan mouse
 - Pewarnaan dinamis node
 
-## 🚀 Potensi Pengembangan
-1. Tambahkan input dinamis untuk struktur graf
-2. Implementasi algoritma DFS dengan variasi
-3. Tambahkan animasi transisi antar node
-4. Support untuk graf yang lebih kompleks
-
 ## 💡 Kesimpulan
 Implementasi DFS ini menggabungkan konsep algoritma penelusuran graf dengan visualisasi interaktif, memberikan pendekatan yang menarik untuk memahami mekanisme depth-first search.
